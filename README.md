@@ -1,6 +1,6 @@
 # Restaurant menu
 Python Project
-The program can allow the user to:
+### The program can allow the user to:
 
 - Add a new menu item, including the name, description, price, and any other relevant
 information.
